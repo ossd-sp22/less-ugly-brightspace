@@ -1,4 +1,4 @@
-var elementList = document.querySelectorAll("*");
+var elementList = document.querySelectorAll(":not(.d2l-image-banner-overlay)");
 
 elementList.forEach((element) => {
   // let elementColor = element.style.color;
