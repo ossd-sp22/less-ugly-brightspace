@@ -1,0 +1,24 @@
+{
+
+  "manifest_version": 2,
+  "name": "Less_Ugly_BrightSpace",
+  "version": "1.0",
+
+  "description": "Dark mode for BirghtSpace.",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://brightspace.nyu.edu/*/home"],
+      "js": ["mainPage.js"],
+      "matches": ["*://brightspace.nyu.edu/*/home/*"],
+      "js": ["courseMainPage.js"],
+      "matches": ["*://brightspace.nyu.edu/*/le/lessons/*"],
+      "js": ["courseContent.js"]
+    }
+  ]
+
+}
