@@ -12,12 +12,8 @@
 
   "content_scripts": [
     {
-      "matches": ["*://brightspace.nyu.edu/*/home"],
-      "js": ["mainPage.js"],
-      "matches": ["*://brightspace.nyu.edu/*/home/*"],
-      "js": ["courseMainPage.js"],
-      "matches": ["*://brightspace.nyu.edu/*/le/lessons/*"],
-      "js": ["courseContent.js"]
+      "matches": ["https://brightspace.nyu.edu/*"],
+      "js": ["mainPage.js"]
     }
   ]
 
