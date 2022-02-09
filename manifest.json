@@ -5,11 +5,12 @@
   "version": "1.0",
 
   "description": "Dark mode for BirghtSpace.",
-
+  "homepage_url": "https://github.com/ossd-sp22/less-ugly-brightspace",
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/flashlight.png"
   },
 
+ 
   "content_scripts": [
     {
       "matches": ["https://brightspace.nyu.edu/*"],
