@@ -26,6 +26,8 @@ TBD
 
 ## Contributing
 
+We're always looking for new contributors! Have a new idea? Want to contribute to the project? Just open a PR or log an issue! It's that easy.
+
 ### Code of Conduct
 
 Our Pledge
