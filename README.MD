@@ -12,7 +12,6 @@ please help yourself and add more features/modes.
 
 ## Installation
 
-TBD
 In order to properly install less-ugly-brightspace and improve your browsing experience, please follow the following steps:
 
 1. Clone/Download This Reponsitory: Click the code button on your browser. Then either download and unzip it or clone the repository using the provided options.
@@ -20,9 +19,7 @@ In order to properly install less-ugly-brightspace and improve your browsing exp
 2. Locate the folder where you donwloaded the files to and type this "about:debugging#/runtime/this-firefox" into your browser to navigate to the extension page.
 3. Now Click "Temporary Add on" and select any file within the folder where your copy is located. Now you should be up and running the next time you go on brightspace!
 
-## How to Use
 
-TBD
 
 ## Contributing
 
