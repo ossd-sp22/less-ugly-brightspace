@@ -12,7 +12,6 @@ please help yourself and add more features/modes.
 
 ## Installation
 
-TBD
 In order to properly install less-ugly-brightspace and improve your browsing experience, please follow the following steps:
 
 1. Clone/Download This Reponsitory: Click the code button on your browser. Then either download and unzip it or clone the repository using the provided options.
@@ -20,9 +19,7 @@ In order to properly install less-ugly-brightspace and improve your browsing exp
 2. Locate the folder where you donwloaded the files to and type this "about:debugging#/runtime/this-firefox" into your browser to navigate to the extension page.
 3. Now Click "Temporary Add on" and select any file within the folder where your copy is located. Now you should be up and running the next time you go on brightspace!
 
-## How to Use
 
-TBD
 
 ## Contributing
 
@@ -57,7 +54,7 @@ Scope
 This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
 Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at cbw307@nyu.edu. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership.
 
